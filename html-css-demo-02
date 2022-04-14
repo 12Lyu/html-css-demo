@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Розклад потягів</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  
+  <table>
+    <caption> 
+      Розклад потягів
+    </caption>
+    <thead>
+    <tr>
+      <th>Номер</th>
+      <th>Маршрут</th>
+      <th>Час у дорозі</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>041/td>
+      <td>Дніпро-Головний
+        Трускавець</td>
+      <td>18 годин</td>
+    </tr>
+    <tr>
+      <td>006</td>
+      <td>Маріуполь
+        Івано-Франківськ</td>
+      <td>14 годин</td>
+    </tr>
+    <tr>
+      <td>231/td>
+      <td>Дніпро-Головний
+        Львів</td>
+      <td>18 години</td>
+    </tr>
+  </tbody>
+  </table>
+
+
+
+</body>
+</html>
